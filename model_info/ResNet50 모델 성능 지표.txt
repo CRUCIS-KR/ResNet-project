@@ -1,9 +1,0 @@
-              precision    recall  f1-score   support
-
-      animal       0.99      0.98      0.99      2621
-      object       0.98      0.98      0.98      2597
-      person       0.98      0.98      0.98      2982
-
-    accuracy                           0.98      8200
-   macro avg       0.98      0.98      0.98      8200
-weighted avg       0.98      0.98      0.98      8200
